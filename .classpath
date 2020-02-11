@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Naxxo/Downloads/Eclipse/External java libraries/commons-io/commons-io-2.5/commons-io-2.5.jar" sourcepath="C:/Users/Naxxo/Downloads/Eclipse/External java libraries/commons-io/commons-io-2.5-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Naxxo/Downloads/Eclipse/External%20java%20libraries/commons-io/commons-io-2.5/commons-io-2.5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Naxxo/Downloads/Eclipse/External java libraries/commons-email/commons-email-1.4/commons-email-1.4.jar" sourcepath="C:/Users/Naxxo/Downloads/Eclipse/External java libraries/commons-email/commons-email-1.4-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Naxxo/Downloads/Eclipse/External%20java%20libraries/commons-email/commons-email-1.4/commons-email-1.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Naxxo/Downloads/Eclipse/External java libraries/java-mail/javax.mail.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
